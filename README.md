@@ -1,3 +1,5 @@
+# Optimal Sampling Fundamentals for Input-Output Slope Curve Estimation in Noninvasive Brain Stimulation
+
 Seyed Mohammad Mahdi Alavi+, Stefan M. Goetz, Mehrdad Saif
 
 S.M.M. Alavi is with the Department of Applied Computing and Engineering, School of Technologies, Cardiff Metropolitan University, Llandaff Campus, Western Avenue, Cardiff, UK, CF5 2YB. e-mail: mahdi.alavi.work@gmail.com
