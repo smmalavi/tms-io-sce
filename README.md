@@ -1,2 +1,2 @@
 # tms-io-sce
-Input-Output Slope Curve Estimator in Transcranial Magnetic Stimulation 
+Optimal Sampling Fundamentals for Input-Output Slope Curve Estimation in Noninvasive Brain Stimulation
