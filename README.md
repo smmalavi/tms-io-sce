@@ -1,4 +1,4 @@
-# Optimal Sampling Fundamentals for Input-Output Slope Curve Estimation in Noninvasive Brain Stimulation
+l# Optimal Sampling Fundamentals for Input-Output Slope Curve Estimation in Neural Stimulation
 
 Seyed Mohammad Mahdi Alavi, Stefan M. Goetz, Mehrdad Saif
 
